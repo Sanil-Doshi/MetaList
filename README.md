@@ -1,7 +1,5 @@
 # MetaList
-By Max Miller (2317020) and Sanil Doshi (2344493)
-MaxMiller@chapman.edu
-SDoshi@chapman.edu
+By Max Miller (MaxMiller@Chapman.edu 2317020) and Sanil Doshi (SDoshi@Chapman.edu 2344493)
 
 ## To run:
 Open file UList.xcodeproj inside the folder /UList.
