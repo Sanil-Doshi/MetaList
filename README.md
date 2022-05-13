@@ -23,7 +23,7 @@ Add List Item (creates a new item and adds it to the list)
 
 
 ## Contributions:
-Max Miller - Wireframe, Design, General Idea, Code Structure, Debugging, Video Presentation
+Max Miller - Wireframe, Design, General Idea, Code Structure, Debugging, Video Presentation, and ReadMe
 
 Sanil Doshi - Actual Code
 
