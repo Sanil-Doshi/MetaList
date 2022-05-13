@@ -3,7 +3,7 @@ By Max Miller (2317020) and Sanil Doshi (2344493)
 MaxMiller@chapman.edu
 SDoshi@chapman.edu
 
-# To run:
+## To run:
 Open file UList.xcodeproj inside the folder /UList.
 Hit the play button at the top left corner.
 When the simulation opens you can edit your lists!!!
