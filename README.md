@@ -1,7 +1,7 @@
 # MetaList
-By Max Miller (MaxMiller@Chapman.edu 2317020)
+Max Miller - MaxMiller@Chapman.edu (2317020)
 
-Sanil Doshi (SDoshi@Chapman.edu 2344493)
+Sanil Doshi - SDoshi@Chapman.edu (2344493)
 
 
 ## To run:
