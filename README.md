@@ -30,7 +30,6 @@
 ## 2 Design Heuristics
 
 1)   Flexibility & Efficiency of Use - The app is very simple for a reason, it was designed to be for anyone since anyone can make lists of whatever they want!
-2)   
 3)   User Control & Freedom - There is always a back button.
 
 
