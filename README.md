@@ -45,7 +45,7 @@
 
 * Max Miller - Wireframe, Design, General Idea, Code Structure, Debugging, Video Presentation, and ReadMe
 
-* Sanil Doshi - Front End implementation, Back-end implementation, Debugging, ReadMe, Documentation, Video Presentation, Slideshow
+* Sanil Doshi - Front-End implementation, Back-End implementation, Debugging, ReadMe, Documentation & Comments, Video Presentation, Slideshow
 
 ## To run:
 
